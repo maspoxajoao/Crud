@@ -42,12 +42,15 @@ button {
 }
 
 #new {
-  font-size: 16px;
-  padding: 8px;
-  border-radius: 5px;
-  border: none;
-  color: white;
-  background-color: rgb(57, 57, 226);
+  background: #0066A2;
+	color: white;
+	border-style: outset;
+	border-color: #0066A2;
+	height: 50px;
+	width: 100px;
+  border-radius: 8px;
+	font: bold 15px arial,sans-serif;
+	text-shadow: none;
 }
 
 .divTable {
